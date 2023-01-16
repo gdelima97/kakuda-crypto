@@ -9,7 +9,7 @@ KAKUDA Coin é um novo projeto de criptomoeda, construída como um token atravé
 O token já é funcional, permite transações entre carteiras.
 No momento, está registrado na plataforma Solana como um "token desconhecido" e com um supply inicial de 2 bilhões (supply de testes, podendo ser expandido ou queimado).
 
-### DEV Full Stack e Fundador
+### Desenvolvedor e Fundador
 
 ### Participante: 
 |Nome|E-mail|Linkedin|GitHUb|
