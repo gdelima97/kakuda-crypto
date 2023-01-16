@@ -11,7 +11,6 @@ No momento, está registrado na plataforma Solana como um "token desconhecido" e
 
 ### Desenvolvedor e Fundador
 
-### Participante: 
 |Nome|E-mail|Linkedin|GitHUb|
 | -------- | -------- | -------- |-------- |
 |Guilherme D.|guilherme@bazeus.com|https://www.linkedin.com/in/guilherme-dorneles/|https://github.com/gdelima97|
