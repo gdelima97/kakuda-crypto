@@ -1,5 +1,5 @@
 # KAKUDA Coin
-<img src="https://raw.githubusercontent.com/gdelima97/kakuda-crypto/main/ico.png" width=115 >
+<img src="https://raw.githubusercontent.com/gdelima97/kakuda-crypto/images/ico.png" width=115 >
 
 ## PT-BR 🇧🇷
 
@@ -12,7 +12,7 @@ No momento, está registrado na plataforma Solana como um "token desconhecido" e
 
 #### Versão RC
 Token **registrado** com nome e símbolo na plataforma Solana e com supply expandido para 10 bilhões de tokens.
-<img src="https://github.com/gdelima97/kakuda-crypto/blob/main/screenshot_metadata.png" width=750>
+<img src="https://github.com/gdelima97/kakuda-crypto/images/screenshot_metadata.png" width=750>
 
 ### Desenvolvedor e Fundador
 
