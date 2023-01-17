@@ -19,3 +19,6 @@ Token **registrado** com nome e símbolo na plataforma Solana e com supply expan
 |Nome|E-mail|Linkedin|GitHUb|
 | -------- | -------- | -------- |-------- |
 |Guilherme D.|guilherme@bazeus.com|https://www.linkedin.com/in/guilherme-dorneles/|https://github.com/gdelima97|
+
+
+
